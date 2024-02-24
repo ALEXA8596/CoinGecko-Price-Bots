@@ -1,0 +1,20 @@
+{
+    "bitcoin": {
+        "token": ""
+    },
+    "ethereum": {
+        "token": ""
+    },
+    "litecoin": {
+        "token": ""
+    },
+    "binancecoin": {
+        "token": ""
+    },
+    "solana": {
+        "token": ""
+    },
+    "ripple": {
+        "token": ""
+    }
+}

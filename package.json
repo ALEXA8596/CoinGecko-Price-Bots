@@ -1,0 +1,16 @@
+{
+  "name": "coingecko-price-bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coingecko-api-v3": "^0.0.29",
+    "discord.js": "^14.14.1"
+  }
+}
